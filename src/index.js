@@ -12,6 +12,9 @@ const activityRouter = require("./router/activityRouter");
 const adminRouter = require("./router/adminRouter");
 
 const app = express();
+// Trust first proxy (e.g., Render, Heroku) so Express uses X-Forwarded-For
+// This is required for correct client IP handling when behind a proxy
+app.set("trust proxy", 1);
 const PORT = process.env.PORT || 5000;
 
 // CORS configuration

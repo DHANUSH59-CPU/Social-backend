@@ -4,8 +4,14 @@ DOCUMENTATION OF MY ENTIRE PROJECT : https://www.notion.so/Inkle-Assignment-2b4a
 NOTE : "KINDLY WAIT FOR FEW SECONDS HAS MY APPLICATION IS DEPLOYED ON RENDER, THE INSTANCE WILL TURN OFF IF THERE IS NO USER TRAFFIC, IT MAY TAKE FEW MINTUNES TO TURN ON THE INSTANCE"
 
 
+
+
 OWNER CREDENTIALS : owner@gmail.com
                     Owner@123
+
+
+
+                    
 
 DEPLOYNMENT LINK : https://social-frontend1.onrender.com/
 
